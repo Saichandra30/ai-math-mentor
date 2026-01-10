@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
+easyocr
+torch
+torchaudio
+transformers
+faiss-cpu
+pillow
+numpy
+pandas
+python-dotenv
+openai-whisper
+ollama
